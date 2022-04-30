@@ -21,7 +21,7 @@ Random Forest
 # Test procedure
 1. Clone the repo to your local machine 
 2. Make sure you have all the dependencies installed 
-3. Use FakeNews-Random Forest.ipynb to test 
+3. Use FakeNews-RF-and-LSTM.ipynb to test 
 
 # Model Used and accuracy  
   * Accuracy----73% for LSTM and 79% for RF 
